@@ -1,0 +1,11 @@
+*{
+    font-family:sans-serif ;
+    animation-duration: all 100ms;
+}
+.ef_blur{
+    backdrop-filter: blur(10px);
+    font-weight: 600;
+    background-color: rgba(50, 54, 57, 0.2);
+    border-radius: 10px;
+    animation-duration: all 100ms;
+}

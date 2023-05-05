@@ -1,0 +1,2 @@
+<h3 class="text-center">¡Bienvenido al menú de nuestro restaurante!</h3>
+        <p class="text-center fs-7">Nos complace ofrecer una amplia variedad de platos deliciosos para satisfacer todos los gustos. Desde entradas sabrosas hasta platos principales satisfactorios.</p>
